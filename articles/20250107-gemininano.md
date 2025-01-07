@@ -1,9 +1,9 @@
 ---
 title: "Google Chrome内蔵のAI Gemini Nanoを試してみる"
-emoji: "🦔"
+emoji: "🌏"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI","Chrome","GeminiNano", "Gemini"]
-published: false
+published: true
 ---
 
 # Chrome 内蔵の Gemini Nano を試してみる
