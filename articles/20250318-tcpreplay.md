@@ -2,8 +2,8 @@
 title: "ネットワーク通信を記録・変更・再生する方法(tcpdump,tcprewrite,tcpreplay)"
 emoji: "🎥"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["ネットワーク","デバッグ","セキュリティ","tcpdump","tcpreplay","pcap","パケットキャプチャ","初心者向け","Linux","通信解析"]
-published: false
+topics: ["ネットワーク","デバッグ","セキュリティ","パケットキャプチャ","通信解析"]
+published: true
 ---
 # 1. 背景と目的
 
